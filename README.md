@@ -10,6 +10,12 @@ Modify ***_SD_FORMAT*** If for some reason the Date format your HTTP Server retu
  
 USAGE
 -----
+1.Download these below two files and Paste into your Project
+2."NSDate+ServerDate.h" file import in your .h file.
+
+NSDate+ServerDate.h
+NSDate+ServerDate.m
+
 ```objc
     NSString * serverDate =[[NSDate serverDate] description];//current server date
     NSDateFormatter *dateFormat = [[NSDateFormatter alloc] init];
