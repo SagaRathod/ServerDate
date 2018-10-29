@@ -1,4 +1,4 @@
-# ServerDate
+# ServerDate objective C
 NSDate+ServerDate is a NSDate Category that allows you to make sure your time is synced up to a remote server regardless of 
 the User's local settings.
 It does this by performing a one-time-per-session HTTP HEAD Request to the supplied server, getting a "Base" date, and keeping the interval between yourself and the server - Making sure you're in sync with the remote server even when the user's clock isn't.
