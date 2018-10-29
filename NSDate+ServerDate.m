@@ -1,8 +1,8 @@
 //
 //  NSDate+ServerDate.m
 //
-//  Created by Shai Mishali on 10/2/13.
-//  Copyright (c) 2013 Shai Mishali. All rights reserved.
+//  Created by Sagar Rathode on 29/10/18.
+//  Copyright (c) 2018 Sagar Rathode. All rights reserved.
 //
 
 #import "NSDate+ServerDate.h"
